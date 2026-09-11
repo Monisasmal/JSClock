@@ -3,3 +3,5 @@
 👉 Frontend Developer | React Enthusiast
 
 🔗 Portfolio -- https://manaswini-portfolio.vercel.app/
+
+📧 manaswinisasamal559@gmail.com
